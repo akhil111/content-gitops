@@ -1,5 +1,6 @@
 ![la logo](https://user-images.githubusercontent.com/42839573/67322755-818e9400-f4df-11e9-97c1-388bf357353d.png)
 
+### demo-repo
 ### Linux Academy Course Repository
 ### Hands-On GitOps
 
